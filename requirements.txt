@@ -1,0 +1,9 @@
+Nama: Adinda Shyfa Dianissa
+Email: m299b4kx0103@bangkit.academy
+ID Dicoding: adinda_shyfa
+
+import pandas as pd
+import os
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
