@@ -7,10 +7,8 @@ pip install -r requirements.txt
 
 
 ## Setup Environment - Shell/Terminal
-mkdir MSIB
-cd MSIB
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir Proyek_Analisis_Data_New
+cd Proyek_Analisis_Data_New
 pipenv install
 pipenv shell
 pip install -r requirements.txt
