@@ -1,14 +1,14 @@
 # Bike Sharing Data Dashboard ✨
 
-## Setup Environment
+## Setup Environment - Anaconda
     conda create --name dashboard python=3.12.4
     conda activate dashboard
     pip install -r requirements.txt
     
-## Menggunakan Shell/Terminal (Pipenv)
+## Setup Environment - Shell/Terminal (Pipenv)
     pipenv install
     pipenv shell
     pip install -r requirements.txt  
 
-## Menjalankan Aplikasi Streamlit
+## Run steamlit app
     streamlit run dashboard/dashboard.py
